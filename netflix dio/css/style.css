@@ -27,8 +27,9 @@ header .container {
 header .logo{
     margin-left: 5px;
     color:var(--vermelho);
-    font-family:"Arial BLACK", Times;
-    font-size:14px;
+    font-family:"NETFLIX";
+    src:url("C:\Users\Usuario1\OneDrive\Desktop\projeto dio\netflix dio\fonte");
+    font-size:40px;
 
 }
 
